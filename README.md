@@ -3,6 +3,7 @@ Working AWS Amplify "hello world" application, from: https://aws-amplify.github.
 I have no idea how to use React so don't read too much into the code.
 
 ## Features
+- CDN hosting via CloudFront
 - cognito auth
 - post photos to s3
 - see list of photos previously submitted (refresh the page after submit)
