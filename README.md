@@ -1,3 +1,16 @@
+# Amplify Hello World
+Working AWS Amplify "hello world" application, from: https://aws-amplify.github.io/docs/js/react#add-analytics-and-storage.
+I have no idea how to use React so don't read too much into the code.
+
+## Features
+- cognito auth
+- post photos to s3
+- see list of photos previously submitted (refresh the page after submit)
+  - by user
+- example graphQL/REST implementation via Lambda + DynamoDB
+- page analytics via Pinpoint.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
