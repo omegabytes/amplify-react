@@ -1,0 +1,5 @@
+{
+    "tableName": "reactDDB",
+    "partitionKeyName": "id",
+    "partitionKeyType": "S"
+}
